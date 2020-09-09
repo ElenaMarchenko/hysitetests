@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ask for a reference","I as a customer WTBAT have an opportunity to ask for a reference.","ERROR","2020-08-31T20:12:07.99+03:00[Europe/Helsinki]","0.0","0.73"
+"More event on the main page","I as a customer WTBAT see more events than presented on the main page","ERROR","2020-08-31T20:12:08.795+03:00[Europe/Helsinki]","0.0","0.21"
+"Send CV","I as a job seeker WTBAT send my CV and apply for  job","ERROR","2020-08-31T20:12:09.022+03:00[Europe/Helsinki]","0.0","0.23"

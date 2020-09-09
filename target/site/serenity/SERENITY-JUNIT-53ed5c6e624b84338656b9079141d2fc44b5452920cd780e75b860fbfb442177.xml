@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="More event on the event page" skipped="0" tests="1" time="0.34" timestamp="2020-09-09 12:26:57"><testcase name="I as a customer WTBAT see more events than presented on the event page"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepdefinitions.EventsPageStepDefinition.AccessMainPageHysSite(EventsPageStepDefinition.java:19)&#13;
+✽.I access main page(D:/QA/Tools/hysitetests/src/test/resources/features/smoke/Smoke_see_more_events.feature:3)&#13;
+</system-err></testcase></testsuite>
